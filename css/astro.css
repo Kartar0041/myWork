@@ -1,0 +1,385 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+.contact{float: left; width: 100%; background-image: url(../image/astrobg.png); background-size: 100% 100%; background-repeat: no-repeat;}
+.contact .contacthead{float: left; width: 100%; padding: 11% 0%;}
+.contact .contacthead h2{float: left; width: 100%;font-family: 'Cormorant Upright'; font-style: normal; font-weight: 700; font-size: 50px; line-height: 134.9%; text-align: center; color: #FFFFFF; text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);}
+
+.contact .contacthead .menu{float: left; width: 100%; text-align: center;}
+.contact .contacthead .menu ul{float: left; width: 100%; list-style: none; padding: 0;}
+.contact .contacthead .menu ul li{display: inline-block;font-family: 'Cormorant Upright'; font-style: normal; font-weight: 600; font-size: 23px; line-height: 30px; color: #FFFFFF; padding: 0px 13px; text-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);}
+.contact .contacthead .menu ul li a{text-decoration: none; color: #FFFFFF;}
+
+.form{float: left; width: 100%;}
+.form .formhead{float: left; width: 100%; text-align: center;}
+.form .formhead h3{float: left; width: 100%;font-family: 'Cormorant Upright'; font-style: normal; font-weight: 600; font-size: 50px; line-height: 134.9%; text-align: center; color: #000000; }
+.form .formhead span{float: left; width: 100%; text-align: center;}
+.form .formhead span img{max-width: 100%;}
+.form .formhead p{float: left; width: 100%; text-align: center;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 162.9%; text-align: center; color: #000000; padding: 0px 50px;}
+
+.form .formmain{float: left; width: 100%; margin-top: 5%;}
+.form .formmain .col-sm-6{float: left; text-align: center;}
+
+.form .inpname{float: left; width: 100%; margin: 5% 0% 5% 6%;}
+.form .inpname input{font-family: 'Poppins';color: #A2A2A2;font-size: 18px;font-weight: 400; font-style: normal;float: left; width: 87%; padding: 10px 0px 10px 20px; border: 1px solid #D2D2D2; border-radius: 10px;}
+.form .inpemail{float: left; width: 100%; margin: 0% 0% 5% 6%;}
+.form .inpemail input{font-family: 'Poppins';color:#A2A2A2;font-size: 18px;font-weight: 400; font-style: normal;float: left; width: 87%; padding: 10px 0px 10px 20px; border: 1px solid #D2D2D2; border-radius: 10px;}
+.form .formmain span{position: relative; right: 55px; top: 10px; color: #D2D2D2;}
+.form .text{float: left; width: 100%;padding: 0% 3%; margin-bottom: 5%;}
+.form .text textarea{float: left; width: 100%; padding: 1%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 18px; line-height: 30px; margin-top: 1%; text-transform: capitalize; overflow: hidden; color: #A2A2A2; border: 1px solid #D2D2D2; border-radius: 10px; }
+
+.form .text button{background: linear-gradient(90deg, #FFB800 1.79%, #FF6F00 100%); border-radius: 100px; padding: 8px 24px; border-style: none; color: #fff; font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 15px; margin-top: 3%; text-align: center; letter-spacing: 0.02em;}
+
+.footr{float: left; width: 100%; background-image: url(../image/foot.png); background-repeat: no-repeat; background-size: 100% 100%;}
+.footr .ice{float: left; width: 100%;}
+.footr .ice img{ max-width: 100%;}
+
+
+.footr .footrmain{float: left; width: 100%;margin: 5% 0% 5% 0%;}
+.footrmain .col-sm-3{float: left;}
+.footrmain .foot1{float: left; width: 100%; } 
+.footrmain .foot1 img{max-width: 100%;}
+.footrmain .foot1 h4{font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 154.4%; color: #FFFFFF; padding: 20px 0px;}
+.footrmain .foot1 ul{list-style: none; color: #fff; padding: 0;}
+.footrmain .foot1 ul li{font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 154.4%; padding: 10px 0px;}
+.footrmain .foot1 ul li span{padding-right: 30px;}
+.footrmain .quick{float: left; width: 100%; padding-top: 15px; padding-left: 50px;}
+.footrmain .quick h3{float: left; width: 100%;font-family: 'Cormorant Upright'; font-style: normal; padding-left: 10px; font-weight: 700; font-size: 30px; line-height: 134.9%; color: #FFFFFF;}
+.footrmain .quick ul{float: left; width: 100%;}
+.footrmain .quick ul li{font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 261.9%; color: #FFFFFF;}
+.footrmain .quick ul li a{text-decoration: none; color: #fff;}
+
+.footrmain .quick h4{float: left; width: 100%;font-family: 'Cormorant Upright'; font-style: normal; font-weight: 700; font-size: 30px; padding-left: 9px; line-height: 134.9%; color: #FFFFFF;}
+.footrmain .quick .letter{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 12px; padding-top: 10px; line-height: 210.9%; color: #FFFFFF;}
+
+.footrmain .quick .footinp input{font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 210.9%; float: left; width: 100%; padding-left: 15px; background: #FFFFFF; border-radius: 25px; color: #CBCBCB;}
+.footrmain .quick .footinp{float: left; width: 100%; position: relative;}
+
+.footrmain .quick .footinp button{background: linear-gradient(90deg, #FFB800 1.79%, #FF6F00 100%); border-radius: 19px; color: #fff; position: absolute; border: unset;position: absolute; font-size: 20px; padding: 0px 15px; right: 5px; top: 5px;}
+.footrmain .quick .inpcheck{float: left; width: 100%; margin-top: 10%;}
+.footrmain .quick .inpcheck input{float: left; width: 10%; margin-top: 3%;}
+.footrmain .quick .inpcheck label{float: left; width: 90%;font-family: 'Poppins'; font-style: normal; padding-left: 10px; font-weight: 400; font-size: 13px; line-height: 210.9%; color: #FFFFFF;}
+
+.footrmain .quick .inpcheck input[type="checkbox"]{zoom: 1.2;}
+.foot1a{float: left; width: 100%;}
+
+
+
+
+
+
+@media only screen and (min-width: 300px) and (max-width: 767px){
+.form .formhead h3{font-size: 30px;}
+.form .formhead p{font-size: 12px;}
+.form .text{padding: 0% 6%;}
+.form .inpname input{font-size: 15px;}
+.form .inpemail input{font-size: 15px;}
+.form .text textarea{font-size: 15px; padding: 2% 0% 0% 2%;}
+/*.footr .ice img{max-height: 100%; max-width: 100%; }*/
+.footr{float: left; width: 100%; background-size: cover;}
+.footrmain .quick .footinp button{right: 84px;}
+.footrmain .quick .footinp input{width: 80%;}
+.footrmain .quick .letter{font-size: 11px;}
+.footrmain .quick{padding-left: 0px;}
+}
+
+@media only screen and (min-width: 767px) and (max-width: 1024px){
+.footr .footrmain{margin-top: 10%;}
+.footrmain .foot1 h4{font-size: 12px; padding: 10px 0px;}
+.footrmain .quick{padding-left: 20px;}
+.footrmain .foot1 ul li{font-size: 11px;}
+.footrmain .foot1 ul li span{padding-right: 10px;}
+.footrmain .quick ul li{font-size: 13px;}
+}
+
+
+
+
+
+/*/////////Ponlecanas\\\\\\\\\\\\*/
+
+
+/*////---head---\\\\\*/
+
+.header{float: left; width: 100%; position: fixed; background-color: #000; z-index: 9999;}
+.header .headmain{float: left; width: 100%; height: 73px;}
+.header .headmain .col-sm-4{float: left;}
+.header .headmain .col-sm-4 ul{float: left; width: 100%; padding: 0; margin: 0;}
+.header .headmain .col-sm-4 .headtop ul li{list-style: none; display: inline-block; margin-right: 16%; margin-top: 5%;}
+.header .headmain .col-sm-4 .headright ul li{list-style: none; display: inline-block; margin-right: 5%;}
+.header .headmain .col-sm-4 .headright ul li a{color: #fff;}
+.header .headmain .col-sm-4 .headcenter ul li{list-style: none; display: inline-block;}
+.header .headmain .col-sm-4 ul li a{text-decoration: none; color: #fff;font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 16px; line-height: 33px;} 
+.header .headmain .col-sm-4 ul li a img{max-width: 65%; position: relative; top: -5px;}
+
+.header .headmain .col-sm-4 .headtop{float: left; width: 100%; text-align: left;}
+.header .headmain .col-sm-4 .headright{float: left; width: 100%; text-align: right; margin-top: 5%;}
+.header .headmain .col-sm-4 .headcenter{float: left; width: 100%; text-align: center;}
+.header .headmain .col-sm-4 .headright button{font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 16px; line-height: 30px; text-align: center; border-style:none; padding: 0px 10px; background: linear-gradient(180deg, #EEC50D 0%, #D0AA00 100%); border-radius: 27px; color: #FFFFFF;}
+
+/*///background\\\\\*/
+
+.backhead{float: left; height: 600px; width: 100%; z-index: -1; position: relative; top: 0px; background-image: url(../image/back.png); background-repeat: no-repeat; background-size: 100% 100%;}
+.backhead .backcenter{float: left; width: 100%; text-align: center;}
+.backhead .backcenter h1{float: left; width: 100%;font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 60px; line-height: 100px; letter-spacing: -0.02em; color: #FFFFFF; text-shadow: 0px 10px 14px rgba(0, 0, 0, 0.2); margin-top: 13%;}
+.backhead .backcenter span{font-family: 'Poppins'; float: left; width: 100%; margin-bottom: 2%; font-style: normal; font-weight: 600; font-size: 16px; line-height: 30px; color: #FFFFFF;}
+.backhead .backcenter p{ float: left; width: 100%; font-family: 'Poppins'; font-style: normal; margin-bottom: 4%; font-weight: 400; font-size: 16px; line-height: 150%; color: #FFFFFF; padding: 0% 15%;}
+
+.backhead .backcenter .enter{ float: left; width: 100%; margin-top: 3%; display: flex; justify-content: center; }
+.backhead .backcenter .enter .inside{ float: left; width: 70%; background-color: #fff; border-radius: 50px;padding: 2%; position: relative;}
+.backhead .backcenter .enter .inside .serbut{float: left; width: 100%; position: absolute; text-align: right; right: 25px; top: 15px;}
+.backhead .backcenter .enter .inside .col-sm-4{float: left;}
+.backhead .backcenter .enter .inside .col-sm-4 select{border-style: none;}
+.backhead .backcenter .enter .inside .col-sm-4	label i{padding-right: 10px;}
+.backhead .backcenter .enter .inside button{background: #E4BD0F; border-style: none; border-radius: 50px;padding: 7px 10px 7px 10px;}
+.backhead .backcenter .enter .inside button i{color: #FFF;}
+.backhead .backcenter .enter .inside .col-sm-4 .rightbut{float: left; width: 100%;}
+
+/*////feature crousel\\\\\\*/
+
+.feature{float: left; width: 99%;}
+.feature .ser1{float: left; width: 100%;}
+.feature .ser1 h3{float: left; width: 100%; font-family: 'Abril Fatface'; margin-top: 3%; font-style: normal; font-weight: 400; font-size: 42px; line-height: 110%; text-align: center; letter-spacing: -0.02em; color: #121237;}
+
+.feature .crou1{float: left; width: 100%;}
+
+.feature .card1{float: left; width: 100%;}
+.feature .card1 .photo1{float: left;}
+.feature .card1 .photo1 .barber{float: left; width: 100%; position: relative;}
+.feature .card1 .photo1 .barber img{max-width: 100%;}
+.feature .card1 .photo1 .barber .text{float: left; width: 100%; position: absolute; top: 30px;}
+.feature .card1 .photo1 .barber .text .cat{float: left;width: 50%; text-align: center;font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 24px; line-height: 45px; color: #FFFFFF; }
+.feature .card1 .photo1 .barber .text .like{float:left;width: 50%; text-align: center;}
+.feature .card1 .photo1 .barber .text .like i{font-size: 24px; color: #fff; padding-top: 10px;padding-left: 80px;}
+
+/*/////location crousel\\\\\*/
+
+.locard{float: left; width: 100%; padding: 4%;}
+.locard .locback{float: left; background-color: #fff; box-shadow: 5px 10px 20px rgba(74, 153, 211, 0.2); border-radius: 20px; padding: 3%;} 
+.locard .locback .lock1{float: left; width: 100%;}
+.locard .locback .lock1 img{ max-width: 100%;}
+.locard .locback .lock1 h4{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 26px; margin: 3% 0%; line-height: 30px; letter-spacing: 0.02em; color: #E4BD0F;}
+.locard .locback .lock1 .number{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 20px; line-height: 30px; letter-spacing: 0.02em; color: #0F001A;}
+.locard .locback .lock1 .desc{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 13px; line-height: 26px; color: #0F001A; opacity: 0.6;}
+
+/*//// Our section\\\\\\\*/
+
+.our{float: left; width: 100%;}
+.our .seniors{float: left; width: 100%;}
+.our .seniors h5{float: left; width: 100%; font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 42px; line-height: 110%; text-align: center; letter-spacing: -0.02em; color: #121237;}
+
+.our .seniors .bio{float: left; width: 100%; padding: 4%;}
+.our .seniors .bio .sen1{float: left; position: relative;background: #FFFFFF; box-shadow: 5px 20px 47px 11px rgba(228, 189, 15, 0.1); border-radius: 20px; padding: 4%;} 
+.our .seniors .bio .sen1 img{max-width: 100%;}
+.our .seniors .bio .sen1 .lowdata{float: left; width: 100%; padding: 3%;}
+.our .seniors .bio .sen1 h4{float: left; width: 100%;font-family: 'Poppins'; margin: 3% 0%; font-style: normal; font-weight: 600; font-size:19px; line-height: 30px; letter-spacing: 0.02em; color: #0F001A;}
+.our .seniors .bio .sen1 p{font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 14px; line-height: 26px; margin: 0; color: #0F001A; opacity: 0.6;}
+.our .seniors .bio .sen1 .skill{float: left; width: 15%; font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 13px; line-height: 26px; color: #0F001A;}
+.our .seniors .bio .sen1 .hiking{ float: left; width: 85%; font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 13px; line-height: 26px; color: #0F001A;}
+.our .seniors .bio .sen1 .task{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 26px; color: #00B807; padding-left: 30px; margin: 2%;}
+.our .seniors .bio .sen1 .rate{float: left; width: 100%;}
+.our .seniors .bio .sen1 .rate .rating{float: left; width: 50%;font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 20px; line-height: 30px; letter-spacing: 0.02em; color: #E4BD0F;}
+.our .seniors .bio .sen1 .rate .rating i{padding-left: 10px;}
+.our .seniors .bio .sen1 .rate .review{float: left; width: 50%; text-align: right;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 18px; line-height: 26px; color: #0042C2; opacity: 0.6;}
+.our .seniors .bio .sen1 .official{float: left;  width: 100%; position: absolute; top: 20px;}
+.our .seniors .bio .sen1 .official .col-sm-2{float: left; text-align: center; position: relative;}
+.our .seniors .bio .sen1 .official .col-sm-2 img{max-width: 40%;}
+.our .seniors .bio .sen1 .official .col-sm-8{float: left; text-align: left; font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 14px; line-height: 30px; letter-spacing: 0.02em; color: #FFFFFF;}
+.our .seniors .bio .sen1 .official .col-sm-2 i{color: #fff; font-size: 19px;}
+.our .seniors .bio .sen1 .official .col-sm-2 .like2{float: left; width: 100%; text-align: left;position: absolute; top: 5px; left: -25px; }
+
+
+/*////Benifits\\\\\*/
+
+.benifits{float: left; width: 100%;}
+.benifits h2{float: left; width: 100%; text-align: center;font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 42px; line-height: 110%; text-align: center; letter-spacing: -0.02em; color: #121237;}
+.benifits .benicard{float: left; width: 100%;}
+.benifits .benicard .col-sm-3{float: left; margin-top: 5%;}
+.benifits .benicard .peace{float: left;width: 100%; text-align: center; padding: 7%;}
+.benifits .benicard .peace img{max-width: 25%;}
+.benifits .benicard .peace h3{float: left; width: 100%;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 22px; line-height: 18px; padding: 7% 0%; text-align: center; letter-spacing: 0.0767308px; color: #121237;}
+.benifits .benicard .peace p{float: left; width: 100%;font-family: 'Montserrat'; font-style: normal; font-weight: 500; font-size: 16px; line-height: 29px; text-align: center; letter-spacing: 0.153462px; color: #121237;}
+.benifits .benicard .col-sm-3:hover{background: #FFFFFF; box-shadow: 5px 20px 50px rgba(228, 189, 15, 0.22); border-radius: 20px;}
+
+/*/////Partner\\\\\\\*/
+
+.partner{float: left; width: 100%; background: #FBFBFB;;}
+.partner h4{float: left; width: 100%; text-align: center;font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 42px; line-height: 55px; letter-spacing: 0.2px; color: #121237;}
+.partner .part1{float: left; width: 100%;}
+.partner .part1 .client{float: left; width: 20%; height: 110px; text-align: center;border: 1px solid #D8D8D8;padding: 1% 0%; margin-top: 3%;}
+.partner .part1 .client h5{float: left; width: 100%;font-family: 'Graphik'; font-style: normal; font-weight: 400; font-size: 16px; line-height: 23px; letter-spacing: 0.1px; color: #374754;}
+.partner .part1 .client img{ max-width: 60%; max-height: 60%;}
+
+/*//////People's Thoughts\\\\\*/
+
+.thoughts{float: left; width: 100%; margin-top: 5%;}
+.thoughts .thouback{float: left; width: 100%;background: #121237;border-radius: 8px; padding-bottom: 8%;}
+.thoughts .thouback h2{float: left; width: 100%; text-align: center;font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 42px; margin-top: 5%; margin-bottom: 3%; line-height: 110%; text-align: center; letter-spacing: -0.02em; color: #FFFFFF;}
+.thoughts .thouback h3{float: left; width: 100%; text-align: center;font-family: 'Poppins'; font-style: normal; font-weight: 500; font-size: 16px; margin-bottom: 3%; line-height: 150%; text-align: center; letter-spacing: 0.15em; color: #FFFFFF;}
+.thoughts .thouback .thoucards{float: left; width: 100%;}
+.thoughts .thouback .thoucards .col-sm-6{float: left;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8{float: right; width: 70%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 h2{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 700; font-size: 14px; line-height: 190%; color: #121237; text-align: unset;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 h2::before{content:""; background-image: url(../image/coma.png);}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 h4{float: left; width: 100%; font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 14px; line-height: 160%; color: #121237;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .col-sm-4{float: left;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .col-sm-4 img{max-width: 100%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .col-sm-8{float: left; padding-top: 7%; width: 66%;padding-left: 5%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .col-sm-8 .judy{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 11px; line-height: 170%; letter-spacing: 0.15em; text-transform: uppercase; color: #121237;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .col-sm-8 .head{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 11px; line-height: 170%; letter-spacing: 0.15em; text-transform: uppercase; color: #121237;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .down{float: left; width: 100%; margin:10% 0%;}
+.thoughts .thouback .thoucards .col-sm-6 .thouright{float: left; width: 100%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .thouright{float: right;background: #F2F2F2; box-shadow: 0px 20px 30px rgba(0, 201, 224, 0.03); border-radius: 5px; padding: 5% 5% 0% 5%; margin-right: 3%; margin-top: 3%;}
+
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9{float: left; width: 70%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 h2{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 700; font-size: 14px; line-height: 190%; color: #121237; text-align: unset;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 h2::before{content: ; background-image: url(../image/coma.png);}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 h4{float: left; width: 100%; font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 14px; line-height: 160%; color: #121237;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .col-sm-4{float: left;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .col-sm-4 img{max-width: 100%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .col-sm-8{float: left; padding-top: 7%; width: 66%; padding-left:5% ;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .col-sm-8 .judy{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 11px; line-height: 170%; letter-spacing: 0.15em; text-transform: uppercase; color: #121237;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .col-sm-8 .head{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 11px; line-height: 170%; letter-spacing: 0.15em; text-transform: uppercase; color: #121237;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .down{float: left; width: 100%; margin:10% 0%;}
+.thoughts .thouback .thoucards .col-sm-6 .thouright{float: left; width: 100%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .thouright{float: right;background: #F2F2F2; margin-top: 3%; box-shadow: 0px 20px 30px rgba(0, 201, 224, 0.03); border-radius: 5px; padding: 5% 5% 0% 5%;}
+
+/*//// FAQ \\\\*/
+
+.faq{float: left; width: 100%; background-image: url(../image/chess.png); margin-top: 4%; background-repeat: no-repeat; background-size: 100% 100%; /*background: linear-gradient(180deg, #000000 0%, rgba(18, 18, 55, 0.57) 51.87%, #000000 100%);*/ mix-blend-mode: normal; height: 580px;}
+.faq .container{max-width: 1000px;}
+.faq .faqhead{float: left; width: 100%;}
+.faq .faqhead h2{float: left; width: 100%;font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 52px; line-height: 110%; text-align: center; letter-spacing: -0.02em; color: #FFFFFF;}
+.faq .faqhead h3{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 18px; line-height: 135.2%; text-align: center; color: #FFFFFF; }
+.faq .faqhead .faqaccor{float: left; width: 100%; margin: 4% 0%;}
+.faq .faqhead .faqaccor .accordion{ float: left; width: 100%; text-align: left;}
+ 
+/*///// mark image\\\*/
+
+.markimg{float: left; width: 100%; background: transparent; position: relative;}
+.markimg img{max-width: 100%; position: absolute; right: -25px; top: -100px;}
+
+/*///// Contact Us \\\\\\*/
+
+.contactus{float: left; width: 100%;}
+.contactus .container{max-width: 1000px;}
+.contactus .contactcard{float: left; width: 100%; background-image: url(../image/contact.png); background-size: 100% 100%; background-repeat: no-repeat; padding: 5% 9%; position: relative; top: 40px;}
+.contactus .contactcard .head1{float: left; width: 100%; text-align: center;font-family: 'Abril Fatface'; font-style: normal; font-weight: 400; font-size: 52px; line-height: 110%; letter-spacing: -0.02em; color: #FFFFFF;}
+.contactus .contactcard .head2{float: left; width: 100%; text-align: center;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 20px; line-height: 150%; letter-spacing: 0.07em; color: #FFFFFF; padding: 3% 0%;}
+.contactus .contactcard .form1{float: left; width: 100%;}
+.contactus .contactcard .form1 input{float: left; width: 48%;background: #FFFFFF;padding: 1% 0% 1% 2%; box-shadow: inset 0px 1px 8px 1px rgba(18, 18, 55, 0.17); border-radius: 10px; margin-left: 2%; font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 20px; line-height: 150%; letter-spacing: 0.07em; color: #ABABAB;}
+.contactus .contactcard .enter1{float: left; width: 100%; padding-left: 13%; padding-top: 2%;}
+.contactus .contactcard .enter1 input[type="checkbox"]{float: left; width: 5%; height: 1rem; margin-top: 1%;}
+.contactus .contactcard .enter1 .accept{float: left; width: 90%;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 20px; line-height: 150%; letter-spacing: 0.07em; color: #FFFFFF;}
+.contactus .contactcard .enter1 .term1{font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 20px; line-height: 150%; letter-spacing: 0.07em; color: #FFFFFF;}
+
+.contactus .but1{float: left; width: 100%; text-align: center;position: absolute; bottom: -25px; right: 0px;}
+.contactus .but1 button{background: #E4BD0F; box-shadow: 5px 15px 40px rgba(255, 193, 7, 0.2); border-radius: 183px;font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 20px; line-height: 190%; text-align: center; border-style: none; padding: 5px 50px 5px 50px; text-transform: uppercase; color: #FFFFFF;}
+
+.accordion-button::after{background-image: url(../image/plus.png) !important;}
+.accordion-button{background: transparent !important;}
+.accordion-button::before{background-image: url(../image/minus.png) !important;}
+
+
+/*//// Footer \\\\\*/
+
+.footer{float: left; width: 100%;background: #121237; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);} .footer .container{max-width: 1000px;}
+.footer .footermain{float: left; width: 100%; margin-top: 12%; margin-bottom: 4%;}
+.footer .footermain .col-sm-6{float: left;}
+.footer .footermain .footleft{float: left; width: 100%;}
+.footer .footermain .footleft .col-sm-4{float: left;}
+.footer .footermain .footleft h6{float: left; width: 100%; text-align:left; padding: 0; margin: 0; font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 18px; line-height: 27px; text-transform: uppercase; color: #FFFFFF;}
+.footer .footermain .footleft .divider{float: left; width: 100%;}
+.footer .footermain .footleft .divider img{max-width: 100%;}
+.footer .footermain .footleft ul{float: left; width: 100%; padding: 0; margin: 0;}
+.footer .footermain .footleft ul li{list-style: none;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 15px; line-height: 22px; padding: 3% 0%; text-align: left; color: #FFFFFF;}
+.footer .footermain .footleft ul li a{ text-decoration: none; color: #FFFFFF;}
+
+.footer .footermain .footright{float: left; width: 100%;}
+.footer .footermain .footright .col-sm-6{float: left;}
+.footer .footermain .footright h6{float: left; width: 100%; text-align:left; padding: 0; margin: 0; font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 18px; line-height: 27px; text-transform: uppercase; color: #FFFFFF;}
+.footer .footermain .footright .divider{float: left; width: 100%;}
+.footer .footermain .footright .divider img{max-width: 100%;}
+.footer .footermain .footright ul{float: left; width: 100%; padding: 0; margin: 0;}
+.footer .footermain .footright ul li{list-style: none;font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 15px; line-height: 22px; padding: 3% 0%; text-align: left; color: #FFFFFF;}
+.footer .footermain .footright ul li a{ text-decoration: none; color: #FFFFFF;}
+.footer .footermain .footright .social{float: left; width: 100%; padding-top: 4%;}
+.footer .footermain .footright .social .pic1{float: left; width: 20%;}
+.footer .footermain .footright .social .pic1 i{color: #E4BD0F; font-size: 20px;}
+.footer .footermain .footright .download{float: left; width: 100%;font-family: 'Poppins'; font-style: normal; font-weight: 600; font-size: 18px; line-height: 27px; padding-top: 4%; color: #FFFFFF;}
+.footer .footermain .footright .connect{float: left; width: 100%; padding-top: 3%;}
+.footer .footermain .footright .connect .play{float: left; width: 50%;}
+.footer .footermain .footright .connect .play img{ max-width: 95%;}
+.footer .footermain .footright .connect .app{float: left; width: 50%;}
+.footer .footermain .footright .connect .app img{ max-width: 85%;}
+
+/*.message{float: left; width: 100%; position:relative;}
+.message img{max-width: 10%;}
+*/
+
+/*////// Last Image\\\\\\*/
+
+.last1{float: left; width: 100%;}
+.last1 .ponle{float: left; width: 100%; text-align: center; padding: 1% 0%;}
+.last1 .ponle img{max-width: 15%;}
+
+
+
+@media only screen and (min-width: 300px) and (max-width: 767px){
+
+.feature .ser1 h3{font-size: 30px;}
+.our .seniors h5{font-size: 30px;}
+.our .seniors .bio .sen1 .skill {font-size: 14px;}
+.our .seniors .bio .sen1 .hiking{font-size: 14px;}
+.benifits h2{font-size: 30px;}
+.locard .locback .lock1 .number{font-size: 16px;}
+.partner h4{font-size: 30px;}
+.locard .locback .lock1 h4{font-size: 20px;}
+.partner .part1 .client h5{font-size: 12px;}
+.partner .part1 .client{padding: 2% 0%; height: 80px;}
+.thoughts .thouback h2{font-size: 30px;}
+.thoughts .thouback h3{font-size: 16px;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8{width: 90%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .thouright{margin-right: 5%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9{float: right;width: 90%;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .thouright{margin-right: 16px;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-8 .col-sm-8{padding-left: unset;}
+.thoughts .thouback .thoucards .col-sm-6 .col-sm-9 .col-sm-8{padding-left: unset;}
+.faq{background-size: cover;}
+.faq .faqhead h2{font-size: 30px;}
+.faq .faqhead h3{font-size: 16px;}
+.faq .faqhead .faqaccor h3{font-size: 10px;}
+.markimg{display: none;}
+.contactus .contactcard .head1{font-size: 25px;}
+.contactus .contactcard .head2{font-size: 10px;}
+.contactus .contactcard .form1 input{font-size: 15px;}
+.contactus .contactcard .enter1 .accept{padding-left: 10px;}
+.contactus .contactcard .enter1 .term1{font-size: 12px;}
+.contactus .contactcard .enter1 .accept{font-size: 12px;}
+.contactus .but1{bottom: -20px;}
+.contactus .but1 button{font-size: 12px;}
+.footer .footermain{margin-top: 20%;}
+.last1 .ponle img {max-width: 35%; padding-bottom: 3%;}
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
